@@ -216,11 +216,13 @@ nav {
   padding-top: 109px;
   padding-bottom: 113px;
   position: relative;
+  z-index: -2;
 }
 .bottomLeft {
   position: absolute;
   bottom: 0;
   left: 0;
+  z-index: -1;
 }
 .bottomRight {
   position: absolute;
